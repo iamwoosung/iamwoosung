@@ -1,16 +1,37 @@
-## Hi there 👋
+## 👋
+
+<br><br><br>
+
+## 📌 Featured Posts
+
+👉 [🔗 Artillery를 이용한 성능 테스트로 견고한 서버 애플리케이션 개발하기](https://iamwoosung.github.io/tech/2025-08-29-server-stress-test-with-artillery/)
+
+👉 [🔗 Node.js 런타임에서 .NET 런타임 로드하고 검증하기](https://iamwoosung.github.io/tech/2025-05-27-nodejs-dotnet-runtime-road-and-verify/)
+
+👉 [🔗 백넷 프로토콜 톺아보기(With 시뮬레이터)](https://iamwoosung.github.io/indepth/2024-12-18-bacnet-protocol-in-depth-with-simulator/)
+
+<br><br><br>
+
+## ⚡ Tech Skiils
+
+[![Language](https://skillicons.dev/icons?i=nodejs,python,cs,java&theme=light)](https://skillicons.dev)
+
+[![Framework](https://skillicons.dev/icons?i=express,fastapi,dotnet&theme=light)](https://skillicons.dev)
+
+<br>
+
+[![Database](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)](https://skillicons.dev)
+
+[![DevOps](https://skillicons.dev/icons?i=azure,aws,githubactions,nginx&theme=light)](https://skillicons.dev)
 
 <!--
-**iamwoosung/iamwoosung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+[![IDE](https://skillicons.dev/icons?i=vscode,visualstudio&theme=light)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Etc](https://skillicons.dev/icons?i=git,windows,postman&theme=light)](https://skillicons.dev)
 -->
+
+<br><br><br>
+
+## 💼 Experience
