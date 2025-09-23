@@ -20,7 +20,7 @@
 
 <br>
 
-[![Database](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=light)](https://skillicons.dev)
 
 [![DevOps](https://skillicons.dev/icons?i=azure,aws,githubactions,nginx&theme=light)](https://skillicons.dev)
 
