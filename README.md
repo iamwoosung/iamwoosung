@@ -1,4 +1,7 @@
-## 👋
+## 🫡 안녕하세요!
+
+소프트웨어 엔지니어입니다. <br>
+백엔드, 응용 앱 개발이 주전공이고 AI와 DevOps에 관심이 많습니다. 
 
 <br><br><br>
 
@@ -35,3 +38,12 @@
 <br><br><br>
 
 ## 💼 Experience
+
+2020.02 ~ 삼성 OOO, 소프트웨어 엔지니어 　 <img src="https://img.shields.io/badge/Samsung-1428A0?style=for-the-badge&logo=Samsung&logoColor=white">
+
+2021.02 ~ 2022.08 육군 병장 만기 전역
+
+2023.03 ~ 2024.02 숭실대학교 IT대학 (중퇴)
+
+2024.03 ~ 한양대학교 산업융합학부 (재학)
+
