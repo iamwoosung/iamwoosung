@@ -55,8 +55,14 @@
 
 ## 🪪 Certification
 ```
+[ Computer Science ]
  - 2023.10 | 삼성 소프트웨어 역량 테스트 A형
  - 2024.09 | SQL Developer (SQLD)
  - 2025.06 | 정보처리기사
  - 2026.04 | AWS Certified Solutions Architect – Associate (AWS SAA C03)
+
+[ Business ]
+ - 2022.07 | 운전 면허 1종 보통
+ - 2022.08 | OPIc IM2
+
 ```
